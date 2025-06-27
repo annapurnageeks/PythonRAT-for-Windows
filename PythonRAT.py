@@ -15,7 +15,7 @@ import secure_delete
 import xml.etree.ElementTree as ET
 from secure_delete import secure_delete
 
-TOKEN = '7279883391:AAHfeistx5PEXoOXoGdFsWdt1uOcMHfB1vQ'  
+TOKEN = 'BOT TOKEN HERE'  
 
 bot = telebot.TeleBot(TOKEN)
 cd = os.path.expanduser("~")
